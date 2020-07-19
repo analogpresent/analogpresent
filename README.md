@@ -3,9 +3,9 @@
 ### your friendly dev channel 😄
 
 #### :: hi
-this is the github for the analog:present youtube channel.
+#### this is the github for the analog:present youtube channel.
 
-Here you'll find the source code for my tutorials!
+#### Here you'll find the source code for my tutorials!
 
 ---
 <p align='center'>
