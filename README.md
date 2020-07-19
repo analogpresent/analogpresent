@@ -1,16 +1,16 @@
-### Hi there 👋
+[![bg][banner]](https://www.analogpresent.com)
 
-<!--
-**analogpresent/analogpresent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### your friendly dev channel 😄
 
-Here are some ideas to get you started:
+##### :: hi
+this is my github for the analog:present youtube channel. Here you'll find the source code for my tutorials!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align='center'>
+🏡 <a href="https://www.analogpresent.com"> website </a>&nbsp;&nbsp;
+🐦<a href="https://twitter.com/analogpresent"> twitter </a>&nbsp;&nbsp;
+📺 <a href="https://www.youtube.com/channel/UC535utgRnRU5VtLOlmUJvtg"> youtube </a>&nbsp;&nbsp;
+</p>
+
+[banner]: https://raw.githubusercontent.com/analogpresent/analogpresent/master/banner.png
